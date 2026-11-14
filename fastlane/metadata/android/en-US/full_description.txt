@@ -1,0 +1,7 @@
+theBlocks! is an open-source alternative to Block Blast.
+
+Drop pieces onto an 8×8 board, clear complete rows and columns, and chain combos to achieve higher scores.
+
+The game features a clean Material You design.
+
+There are no ads, trackers or in-app purchases.
